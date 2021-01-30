@@ -13,8 +13,7 @@ Check it out on [Telegram](https://t.me/AmazonPacBot) (Italian only for now)
 2. Register for a new Firebase application
 3. Sign for Amazon Product Advertising API
 4. `cp .env.sample .env` and fill all the values with the above ones
-5. `cp .serviceAccountKey.sample .serviceAccountKey.json` and fill it with the information from Firebase to access to the database as an admin
-6. Run `npm install` and suddenly `npm start`
+5. Run `npm install` and suddenly `npm start`
 
 # Contributing
 
